@@ -1,4 +1,4 @@
-
+/***  FONTS ***/
 @import url("https://fonts.googleapis.com/css2?family=Archivo:wght@900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
@@ -203,9 +203,12 @@ header::before {
 }
 
 .world-characters#top-characters {
-  background-image: url("../imagens/characters/kids-on-the-bike.jpeg");
-  background-size: contain;
-  background-repeat: no-repeat;
+  height: 100%;
+  background-color: var(--character-top-image-color);
+  bottom: -3px;
+
+  mask: var(--character-top-image-src) bottom / contain no-repeat;
+  -webkit-mask: var(--character-top-image-src) bottom / 100% no-repeat;
 }
 
 .world-characters#bottom-characters {
@@ -417,12 +420,4 @@ footer::before {
 footer::after {
   right: -50px;
   transform: rotateZ(10deg);
-}
-
-.test-image {
-  background-image: url("../imagens/characters/kids-on-the-bike.svg");
-  width: 200px;
-  height: 200px;
-  background-size: contain;
-  background-repeat: no-repeat;
 }
