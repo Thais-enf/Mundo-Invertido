@@ -7,3 +7,4 @@ Usei as linguangens Basica como HTML & CSS & Javascript.
 <img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(45).png" width=200;>
 <img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(47).png" width=200;>
 <br>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(48).png" width=200;>
