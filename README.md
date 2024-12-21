@@ -3,5 +3,5 @@ Durante minha jornada de aprendizado em desenvolvimento front-end, concluí um p
 <br>
 Usei as linguangens Basica como HTML & CSS & Javascript.
 <br>
-<img src="https://github.com/Thais-enf/Piano/blob/48f1706660198f5bd12d3feb8903f71fb8838334/src/Captura%20de%20Tela%20(35).png" width=590px;>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/5113e44d523ea8d196b73d6df20e177bca7e5169/assets/imagens/postagem/Captura%20de%20Tela%20(44).png" width=190px;>
 <br>
