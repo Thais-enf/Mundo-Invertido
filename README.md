@@ -7,6 +7,11 @@ Usei as linguangens Basica como HTML & CSS & Javascript.
 <img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(45).png" width=200;>
 <img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(47).png" width=200;>
 <img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(48).png" width=200;>
-<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(49).png" width=200;>
 <br>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(49).png" width=200;>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(50).png" width=200;>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(51).png" width=200;>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(52).png" width=200;>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(53).png" width=200;>
+
 
