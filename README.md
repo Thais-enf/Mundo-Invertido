@@ -3,8 +3,7 @@ Durante minha jornada de aprendizado em desenvolvimento front-end, concluí um p
 <br>
 Usei as linguangens Basica como HTML & CSS & Javascript.
 <br>
-<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/5113e44d523ea8d196b73d6df20e177bca7e5169/assets/imagens/postagem/Captura%20de%20Tela%20(44).png" width=200px;>
-<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(45).png" width=200;>
 <img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(46).png" width=200;>
+<img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(45).png" width=200;>
 <img src="https://github.com/Thais-enf/Mundo-Invertido/blob/47748cadf9f0ea7cbfb9ac7222f7cc33ae5bbd10/assets/imagens/postagem/Captura%20de%20Tela%20(47).png" width=200;>
 <br>
